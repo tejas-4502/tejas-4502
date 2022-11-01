@@ -1,11 +1,5 @@
-### Hi there 👋
-
-<!--
-**tejas-4502/tejas-4502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # tejas-4502
 ![github](https://user-images.githubusercontent.com/71844445/130195884-e15e04af-3d54-4c36-859e-160217b885f7.png)
-<img src="https://user-images.githubusercontent.com/71844445/130195884-e15e04af-3d54-4c36-859e-160217b885f7.png" alt="me" />
 
 <h1 align="center">Hi 👋, I'm Tejas Sonawane</h1>
 <h3 align="center">A Web Developer and React Learner and Enthusiast</h3>
