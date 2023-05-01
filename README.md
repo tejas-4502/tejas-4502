@@ -2,7 +2,7 @@
 ![github](https://user-images.githubusercontent.com/71844445/130195884-e15e04af-3d54-4c36-859e-160217b885f7.png)
 
 <h1 align="center">Hi 👋, I'm Tejas Sonawane</h1>
-<h3 align="center">A Web Developer and React Learner and Enthusiast</h3>
+<h3 align="center">A Web Developer and Learner and Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-4502&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-4502" /> </p>
 
@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on [The Borrow Trend](https://github.com/tejas-4502/borrow-trend-website) . -->
 
-- 🌱 I’m currently learning **Web developement, Data Structures and Full stack**
+- 🌱 I’m currently learning **Web developement, Data Structures and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejas-4502/](https://github.com/tejas-4502/)
 
