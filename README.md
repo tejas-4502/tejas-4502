@@ -1,5 +1,5 @@
 # tejas-4502
-<img src="https://img.freepik.com/premium-photo/programmer-generative-ai_860599-3057.jpg?w=740" alt="ab" width="400" height="800"/>
+<img src="https://img.freepik.com/premium-photo/programmer-generative-ai_860599-3057.jpg?w=740" alt="ab" width="800" height="400"/>
 
 <h1 align="center">Hi 👋, I'm Tejas Sonawane</h1>
 <h3 align="center">A Web Developer and Learner and Enthusiast</h3>
