@@ -1,5 +1,5 @@
 # tejas-4502
-![github](https://user-images.githubusercontent.com/71844445/130195884-e15e04af-3d54-4c36-859e-160217b885f7.png)
+![github]([https://user-images.githubusercontent.com/71844445/130195884-e15e04af-3d54-4c36-859e-160217b885f7.png](https://img.freepik.com/premium-photo/programmer-generative-ai_860599-3057.jpg?w=740))
 
 <h1 align="center">Hi 👋, I'm Tejas Sonawane</h1>
 <h3 align="center">A Web Developer and Learner and Enthusiast</h3>
