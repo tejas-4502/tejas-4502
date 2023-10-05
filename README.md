@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on [The Borrow Trend](https://github.com/tejas-4502/borrow-trend-website) . -->
 
-- 🌱 I’m currently learning **Web developement, Data Structures and Docker**
+- 🌱 I’m currently working in **Web developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejas-4502/](https://github.com/tejas-4502/)
 
